@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <div class="github-introduction">
-⚡ I'm a seasoned **Software Engineer & Architect** with years of experience in architecting, engineering and commercializing robust software solutions for the masses across sectors with telecommunications, banking and finance leading the charts.  
+⚡ I'm a seasoned **Software Engineer & Architect** with years of experience in architecture, engineering and commercializing robust software solutions for the masses across sectors with telecommunications, banking and finance leading the charts.  
 
 🔭 My main goal is to continue creating solutions for problems affecting the common man. Putting technology to good use, daily.  
 
